@@ -165,7 +165,7 @@ system.beforeEvents.startup.subscribe((ev) => {
 
     registerCommand(
         "chairs:sit",
-        "アイテムの名前と説明を変更します",
+        "その場に座ります",
         sit
     );
 });

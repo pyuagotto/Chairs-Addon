@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-        "name": "[1.21.80]Chairs Addon",
+        "name": "[1.21.90]Chairs Addon",
         "description": "このアドオンを使用するにはBetaAPIsを有効にする必要があります",
-        "uuid": "3ad74336-5cd2-52a8-8979-4b78d51e14c7",
+        "uuid": "3ad74336-5cd2-15a8-8979-4b78d51e14c7",
         "version": [
             0,
             1,
@@ -19,7 +19,7 @@
         {
             "description": "GameTest module",
             "type": "script",
-            "uuid": "d0d1def6-11a7-43cd-9ab4-f2a03e03ac2f",
+            "uuid": "d0d1def6-55a1-43cd-9ab4-f2a03e03ac2f",
             "version": [
                 0,
                 1,
@@ -31,7 +31,7 @@
     "dependencies": [
         {
             "module_name": "@minecraft/server",
-            "version": "2.0.0-beta"
+            "version": "2.1.0-beta"
         }
     ]
 }
