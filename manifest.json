@@ -3,7 +3,7 @@
     "header": {
         "name": "[1.21.100]Chairs Addon",
         "description": "",
-        "uuid": "b8e9f2a5-3c7d-4e6f-9a1b-2c8d5e7f9a0b",
+        "uuid": "c4f8a2b6-7e1d-4a9c-8f2b-3d6e8a4c7f9e",
         "version": [
             0,
             1,
@@ -19,7 +19,7 @@
         {
             "description": "GameTest module",
             "type": "script",
-            "uuid": "f1a2b3c4-5d6e-7f8g-9h0i-1j2k3l4m5n6o",
+            "uuid": "a9b7c3e5-2f8d-4c6a-9e1f-7b5d8c2a9f4e",
             "version": [
                 0,
                 1,
